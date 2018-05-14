@@ -1,0 +1,26 @@
+a {
+  cursor: pointer;
+}
+.items{
+    margin: 0 0 2em 0;
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+.items li {
+    cursor: pointer;
+    position: relative;
+    background-color: #EEE;
+    margin: 0.3em;
+    padding: 0.4em;
+    height: 2.5em;
+    border-radius: 4px;
+}.items li a {
+    display: block;
+    text-decoration: none;
+    color: #445b66;
+}
+.items li:hover{
+    background-color: #d6d6d6;
+}

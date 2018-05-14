@@ -1,0 +1,9 @@
+#loginBtn,#regisBtn{
+  margin-left:5px;
+}
+
+#modBtn{
+  width:49%;
+  height:80px;
+  font-size:2em;
+}
